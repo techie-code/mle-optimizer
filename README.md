@@ -1,7 +1,7 @@
 # MLE Optimizer — Numerical Methods from Scratch
 
 > Estimating parameters of a Normal distribution using Maximum Likelihood Estimation (MLE),
-> implemented with three classical numerical optimization methods — compared for speed and accuracy.
+> implemented with three classical numerical optimization methods compared for speed and accuracy.
 
 ---
 
@@ -16,7 +16,7 @@ for a Normal distribution using three numerical methods built entirely from scra
 | Bisection Method | Safe, derivative-free root finding for μ | **24** |
 | Golden Section Search | Bounded search for σ (no derivatives needed) | **35** |
 
-All three methods converge to the **same answer** — demonstrating the classic tradeoff between
+All three methods converge to the **same answer** demonstrating the classic tradeoff between
 convergence speed and information requirements.
 
 ---
@@ -34,7 +34,8 @@ Parameter    True Value    MLE Estimate    Method
 
 ## 🖼️ Convergence Comparison
 
-![Convergence Plot](images/convergence_plot.png)
+<img width="1390" height="495" alt="image" src="https://github.com/user-attachments/assets/28e2d7e1-0133-4c90-a5c7-c9dfc823ef0b" />
+
 
 - **Newton (red)** — converges in 2 iterations using second-order derivative information
 - **Bisection (blue)** — zigzags toward the answer, guaranteed convergence in 24 iterations
