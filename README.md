@@ -110,5 +110,5 @@ numerical methods theory with practical statistical computing.
 **Aishwarya Lakshmi S**
 Masters in Statistical Data Science | Ex-IBM Data Engineer (3 years)
 
-- LinkedIn: [[your-linkedin](https://uk.linkedin.com/in/aishwarya-lakshmi-s-ba9ab4179)]
-- GitHub: [[your-github](https://github.com/techie-code)]
+- LinkedIn: [[linkedin](https://uk.linkedin.com/in/aishwarya-lakshmi-s-ba9ab4179)]
+- GitHub: [[github](https://github.com/techie-code)]
