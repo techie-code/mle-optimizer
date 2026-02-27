@@ -60,7 +60,7 @@ Parameter    True Value    MLE Estimate    Method
 mle-optimizer/
 │
 ├── notebook/
-│   └── mle_optimizer.ipynb    ← full walkthrough with explanations
+│   └── MLE.ipynb    ← full walkthrough with explanations
 │
 ├── src/
 │   └── methods.py             ← clean reusable implementations
@@ -76,7 +76,7 @@ mle-optimizer/
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/mle-optimizer.git
+git clone https://github.com/techie-code/mle-optimizer.git
 cd mle-optimizer
 pip install numpy matplotlib scipy
 jupyter notebook notebook/mle_optimizer.ipynb
@@ -95,7 +95,7 @@ jupyter notebook notebook/mle_optimizer.ipynb
 
 ## 💡 Why This Project?
 
-In real-world data science and ML, optimization is everywhere — training neural networks,
+In real-world data science and ML, optimization is everywhere , training neural networks,
 fitting statistical models, tuning hyperparameters. Understanding *how* optimizers work
 under the hood (not just calling `scipy.optimize`) is what separates strong data scientists
 from those who just use black boxes.
@@ -107,8 +107,8 @@ numerical methods theory with practical statistical computing.
 
 ## 👤 Author
 
-**Your Name**
+**Aishwarya Lakshmi S**
 Masters in Statistical Data Science | Ex-IBM Data Engineer (3 years)
 
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+- LinkedIn: [[your-linkedin](https://uk.linkedin.com/in/aishwarya-lakshmi-s-ba9ab4179)]
+- GitHub: [[your-github](https://github.com/techie-code)]
