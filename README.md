@@ -60,13 +60,13 @@ Parameter    True Value    MLE Estimate    Method
 mle-optimizer/
 │
 ├── notebook/
-│   └── MLE.ipynb    ← full walkthrough with explanations
+│   └── MLE.ipynb     full walkthrough with explanations
 │
 ├── src/
-│   └── methods.py             ← clean reusable implementations
+│   └── methods.py              clean reusable implementations
 │
 ├── images/
-│   └── convergence_plot.png   ← convergence comparison plot
+│   └── convergence_plot.png    convergence comparison plot
 │
 └── README.md
 ```
